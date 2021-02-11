@@ -2,7 +2,7 @@
 Practice Repository
 Hello everyone!
 
-I am Ryan and I am studying Accounting and Business Ananlytics.
+I am Ryan, and I am studying Accounting and Business Ananlytics.
 
 **TABLE OF CONTENTS FOR PROJECT**
 1. **Project Title**
